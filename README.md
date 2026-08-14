@@ -23,7 +23,7 @@ Core product features work offline without an AI model or cloud connection. Loca
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/work-mode-screen.png" width="30%" alt="LifeOS Work Mode" />
+  <img src="docs/screenshots/work-screen.png" width="30%" alt="LifeOS Work Mode" />
   <img src="docs/screenshots/gym-mode.png" width="30%" alt="LifeOS Gym Mode" />
   <img src="docs/screenshots/shopping-mode.png" width="30%" alt="LifeOS Shopping Mode" />
 </p>
