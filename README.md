@@ -17,19 +17,19 @@ Core product features work offline without an AI model or cloud connection. Loca
 ## Preview
 
 <p align="center">
-  <img src="docs/screenshots/home.png" width="30%" alt="LifeOS Today dashboard" />
-  <img src="docs/screenshots/life.png" width="30%" alt="LifeOS Life modules" />
-  <img src="docs/screenshots/assistant.png" width="30%" alt="LifeOS local AI assistant" />
+  <img src="./docs/screenshots/today.jpg" width="250" alt="LifeOS Today dashboard" />
+  <img src="./docs/screenshots/life.jpg" width="250" alt="LifeOS Life modules" />
+  <img src="./docs/screenshots/assistant.jpg" width="250" alt="LifeOS local AI assistant" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/work-screen.png" width="30%" alt="LifeOS Work Mode" />
-  <img src="docs/screenshots/gym-mode.png" width="30%" alt="LifeOS Gym Mode" />
-  <img src="docs/screenshots/shopping-mode.png" width="30%" alt="LifeOS Shopping Mode" />
+  <img src="./docs/screenshots/work-mode.jpg" width="250" alt="LifeOS Work Mode" />
+  <img src="./docs/screenshots/gym-mode.jpg" width="250" alt="LifeOS Gym Mode" />
+  <img src="./docs/screenshots/shopping-mode.jpg" width="250" alt="LifeOS Shopping Mode" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/study-mode.png" width="30%" alt="LifeOS Study Mode" />
+  <img src="./docs/screenshots/study-mode.jpg" width="250" alt="LifeOS Study Mode" />
 </p>
 
 > Screenshots above are from the iOS Simulator. Physical-device and store-release validation are separate release gates.
