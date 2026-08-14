@@ -1,0 +1,10 @@
+appId: ${APP_ID}
+---
+- launchApp:
+    clearState: false
+- assertVisible: "LifeOS"
+- tapOn: "You"
+- assertVisible: "You"
+- tapOn: "Diagnostics & release health"
+- assertVisible: "Diagnostics"
+- assertVisible: "Encrypted database"

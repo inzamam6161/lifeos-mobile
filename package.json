@@ -2,18 +2,42 @@
   "name": "LifeOS",
   "version": "0.0.1",
   "private": true,
+  "op-sqlite": {
+    "sqlcipher": true,
+    "performanceMode": true
+  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test:unit": "jest --runInBand",
+    "quality": "npm run typecheck && npm run lint && npm run test:unit"
   },
   "dependencies": {
+    "@notifee/react-native": "^9.1.8",
+    "@op-engineering/op-sqlite": "^17.1.5",
+    "@react-native-documents/picker": "^12.0.2",
+    "@react-native-documents/viewer": "^4.0.1",
+    "@react-native/new-app-screen": "0.86.2",
+    "@react-navigation/bottom-tabs": "^7.18.16",
+    "@react-navigation/native": "^7.3.16",
+    "@react-navigation/native-stack": "^7.18.8",
+    "@reduxjs/toolkit": "^2.12.0",
+    "lifeos-document-text-extractor": "file:packages/lifeos-document-text-extractor",
+    "llama.rn": "^0.13.0-rc.0",
     "react": "19.2.3",
     "react-native": "0.86.2",
-    "@react-native/new-app-screen": "0.86.2",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-file-access": "^4.0.3",
+    "react-native-keychain": "^10.0.0",
+    "react-native-nitro-modules": "^0.36.5",
+    "react-native-quick-base64": "^3.0.1",
+    "react-native-quick-crypto": "^1.1.6",
+    "react-native-safe-area-context": "^5.8.1",
+    "react-native-screens": "^4.27.0",
+    "react-redux": "^9.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

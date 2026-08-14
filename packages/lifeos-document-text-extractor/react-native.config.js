@@ -1,0 +1,1 @@
+module.exports={dependency:{platforms:{android:{packageImportPath:'import com.lifeos.documenttextextractor.LifeOSDocumentTextExtractorPackage;',packageInstance:'new LifeOSDocumentTextExtractorPackage()'}}}};

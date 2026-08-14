@@ -1,0 +1,12 @@
+{
+  "name": "lifeos-document-text-extractor",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "types": "index.d.ts",
+  "react-native": "index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
