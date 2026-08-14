@@ -17,13 +17,13 @@ Core product features work offline without an AI model or cloud connection. Loca
 ## Preview
 
 <p align="center">
-  <img src="docs/screenshots/today.png" width="30%" alt="LifeOS Today dashboard" />
+  <img src="docs/screenshots/home.png" width="30%" alt="LifeOS Today dashboard" />
   <img src="docs/screenshots/life.png" width="30%" alt="LifeOS Life modules" />
   <img src="docs/screenshots/assistant.png" width="30%" alt="LifeOS local AI assistant" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/work-mode.png" width="30%" alt="LifeOS Work Mode" />
+  <img src="docs/screenshots/work-mode-screen.png" width="30%" alt="LifeOS Work Mode" />
   <img src="docs/screenshots/gym-mode.png" width="30%" alt="LifeOS Gym Mode" />
   <img src="docs/screenshots/shopping-mode.png" width="30%" alt="LifeOS Shopping Mode" />
 </p>
