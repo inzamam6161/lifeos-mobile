@@ -265,10 +265,10 @@ The project includes engineering work beyond feature implementation:
 - boot/performance metrics,
 - database health diagnostics,
 - Jest unit tests,
-- React Native Testing Library coverage,
+- Jest unit and component tests for selected domain and UI behavior Automated type-check, lint and test workflow through GitHub Actions
+  Android and iOS release builds remain explicit device/release validation gates,
 - accessibility checks on shared controls,
 - GitHub Actions quality pipeline,
-- Android debug compile in CI,
 - example device-level Maestro flow,
 - performance budgets,
 - release checklist.
