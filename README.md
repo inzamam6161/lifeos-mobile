@@ -264,7 +264,6 @@ The project includes engineering work beyond feature implementation:
 - sanitized local diagnostic events,
 - boot/performance metrics,
 - database health diagnostics,
-- Jest unit tests,
 - Jest unit and component tests for selected domain and UI behavior,
 - Automated type-check, lint and test workflow through GitHub Actions,
 - Android and iOS release builds remain explicit device/release validation gates,
